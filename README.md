@@ -3,7 +3,7 @@
 
 
 
-VPN:hanjinbao@huanqiu.com   PB456123
+VPN:hanjinbao@huanqiu.com   123456
 
 cmd 退出 alt+c。
 
